@@ -5,3 +5,4 @@
 3. Find the height of a binary tree
 4. Sort an array
 5. Sort a stack
+6. Delete middle element of a stack
