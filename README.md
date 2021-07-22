@@ -6,3 +6,4 @@
 4. Sort an array
 5. Sort a stack
 6. Delete middle element of a stack
+7. Reverse a stack
