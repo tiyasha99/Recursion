@@ -12,3 +12,4 @@
 10. Print Subsets
 11. Print Unique Subsets
 12. Permutation with spaces
+13. Permutation with cases
