@@ -13,3 +13,6 @@
 11. Print Unique Subsets
 12. Permutation with spaces
 13. Permutation with cases
+14. Letter Case Permutation
+15. Generate all balanced parenthesis
+16. Print N-bit binary numbers where the no. of 1 is greater than equal to the number of zeros

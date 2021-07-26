@@ -11,12 +11,10 @@ void binum(int n,string op,int one,int zero){
   if(one!=zero)
   {
     op1.push_back('0');
-    zero++;
-    binum(n-1,op1,one,zero);
+    binum(n-1,op1,one,zero+1);
   }
   op2.push_back('1');
-  one++;
-  binum(n-1,op2,one,zero);
+  binum(n-1,op2,one+1,zero);
   return;
 }
 int main()
